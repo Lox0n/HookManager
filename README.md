@@ -27,3 +27,5 @@ oNtQueryVirtualMemory = (hNtQueryVirtualMemory)
 - JMP
 - CALL
 - MOV EAX 
+
+Auto-Dissamble of opcodes not supported.
